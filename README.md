@@ -44,8 +44,13 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0058-length-of-last-word) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
