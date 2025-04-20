@@ -32,5 +32,6 @@
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1827-invalid-tweets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1827-invalid-tweets) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
