@@ -31,6 +31,7 @@
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1258-article-views-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1827-invalid-tweets) |
