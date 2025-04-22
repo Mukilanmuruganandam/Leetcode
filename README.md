@@ -17,6 +17,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2752-sum-multiples](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2752-sum-multiples) |
 ## Simulation
 |  |
 | ------- |
