@@ -1,14 +1,14 @@
-bool reachingPoints(int sx,int sy,int tx,int ty){
-while(tx>sx&&ty>sy)
+bool reachingPoints(int a,int b,int c,int d){
+while(c>a&&d>b)
 {
-if(tx>ty)
-tx%=ty;
+if(c>d)
+c%=d;
 else 
-ty%=tx;
+d%=c;
 }
-if(tx==sx&&ty>=sy&&(ty-sy)%sx==0)
+if(c==a&&d>=b&&(d-b)%a==0)
 return true;
-if(ty==sy&&tx>=sx&&(tx-sx)%sy==0)
+if(d==b&&c>=a&&(c-a)%b==0)
 return true;
 return false;
 }
