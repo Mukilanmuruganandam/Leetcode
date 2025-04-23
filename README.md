@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
