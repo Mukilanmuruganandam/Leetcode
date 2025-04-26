@@ -67,6 +67,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Trie
@@ -79,6 +80,7 @@
 | [0202-happy-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0202-happy-number) |
 | [1500-count-largest-group](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1500-count-largest-group) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Greedy
