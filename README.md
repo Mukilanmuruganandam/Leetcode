@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0001-two-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -91,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0202-happy-number) |
 | [1500-count-largest-group](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1500-count-largest-group) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
