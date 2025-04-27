@@ -14,6 +14,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
 |  |
 | ------- |
