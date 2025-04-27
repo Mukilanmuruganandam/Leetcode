@@ -13,6 +13,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
