@@ -85,6 +85,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2235-capitalize-the-title](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Trie
