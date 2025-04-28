@@ -46,6 +46,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0796-reaching-points](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0796-reaching-points) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
 | [0397-integer-replacement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0476-number-complement) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -241,4 +243,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
