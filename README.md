@@ -31,6 +31,7 @@
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
 |  |
@@ -55,6 +56,7 @@
 | [2752-sum-multiples](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2752-sum-multiples) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -212,5 +214,6 @@
 | ------- |
 | [0897-prime-palindrome](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0897-prime-palindrome) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
