@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0202-happy-number) |
@@ -246,5 +247,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
