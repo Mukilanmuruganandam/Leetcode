@@ -95,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
