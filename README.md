@@ -34,6 +34,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -66,6 +67,7 @@
 | [2748-calculate-delayed-arrival-time](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2752-sum-multiples) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
+| [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
@@ -170,6 +172,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2650-split-with-minimum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
