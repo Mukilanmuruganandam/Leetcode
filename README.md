@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0135-candy) |
@@ -214,6 +215,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
