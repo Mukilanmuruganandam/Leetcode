@@ -23,6 +23,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2486-most-frequent-even-element](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -174,6 +175,7 @@
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,11 +191,13 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Counting Sort
 |  |
 | ------- |
