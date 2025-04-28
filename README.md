@@ -176,6 +176,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0397-integer-replacement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0476-number-complement) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -228,4 +229,8 @@
 | [3373-maximum-prime-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
