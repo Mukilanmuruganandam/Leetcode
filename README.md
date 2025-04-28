@@ -49,6 +49,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0796-reaching-points](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0796-reaching-points) |
@@ -252,4 +253,5 @@
 | ------- |
 | [0050-powx-n](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
