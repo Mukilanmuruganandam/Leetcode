@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -187,6 +188,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
