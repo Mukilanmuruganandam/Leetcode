@@ -45,6 +45,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -205,6 +206,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
