@@ -1,6 +1,6 @@
 int climbStairs(int n) 
 {
-    int n1=1,n2=2,s = 0,i;
+    int n1=1,n2=2,s=0,i;
     if(n<=3)
     {
         return n;
