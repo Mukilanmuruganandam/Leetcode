@@ -82,6 +82,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2383-add-two-integers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
