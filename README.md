@@ -32,6 +32,7 @@
 | [0978-valid-mountain-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1039-find-the-town-judge](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -190,6 +191,7 @@
 | [0001-two-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1039-find-the-town-judge](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1500-count-largest-group) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -379,4 +381,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0463-island-perimeter) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
