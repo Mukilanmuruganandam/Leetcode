@@ -23,6 +23,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -271,6 +272,7 @@
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Two Pointers
