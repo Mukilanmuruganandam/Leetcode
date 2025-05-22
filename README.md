@@ -19,6 +19,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0495-teemo-attacking) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -105,6 +106,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0495-teemo-attacking) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
