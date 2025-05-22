@@ -30,6 +30,7 @@
 | [0944-smallest-range-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0978-valid-mountain-array) |
+| [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -162,6 +163,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -222,6 +224,7 @@
 | [0397-integer-replacement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0890-lemonade-change](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0890-lemonade-change) |
+| [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1448-maximum-69-number) |
@@ -303,6 +306,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0941-sort-array-by-parity](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
