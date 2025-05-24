@@ -63,6 +63,7 @@
 | [1769-get-maximum-in-generated-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -145,6 +146,7 @@
 | [0495-teemo-attacking](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0495-teemo-attacking) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1769-get-maximum-in-generated-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -428,4 +430,9 @@
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
