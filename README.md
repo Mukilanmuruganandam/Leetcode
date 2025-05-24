@@ -59,6 +59,7 @@
 | [1656-count-good-triplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1656-count-good-triplets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1720-crawler-log-folder](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1751-slowest-key](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1751-slowest-key) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -186,6 +187,7 @@
 | [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1720-crawler-log-folder](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1751-slowest-key](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1751-slowest-key) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
