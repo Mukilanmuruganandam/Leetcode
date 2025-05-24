@@ -64,6 +64,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1848-sum-of-unique-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -222,6 +223,7 @@
 | [1500-count-largest-group](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -239,6 +241,7 @@
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
