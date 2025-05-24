@@ -50,6 +50,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -339,6 +340,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
