@@ -85,6 +85,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -218,6 +219,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
