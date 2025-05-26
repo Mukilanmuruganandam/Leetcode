@@ -67,6 +67,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1944-truncate-sentence](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -197,6 +198,7 @@
 | [1720-crawler-log-folder](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1751-slowest-key](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1751-slowest-key) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1944-truncate-sentence](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
