@@ -81,6 +81,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2181-smallest-index-with-equal-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
