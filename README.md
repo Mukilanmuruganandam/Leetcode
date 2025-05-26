@@ -82,6 +82,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -161,6 +162,7 @@
 | [2058-concatenation-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -455,4 +457,5 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
