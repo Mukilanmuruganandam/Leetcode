@@ -73,6 +73,7 @@
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -374,6 +375,7 @@
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
