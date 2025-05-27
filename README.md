@@ -99,6 +99,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2386-min-max-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2386-min-max-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -299,6 +300,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
@@ -322,6 +324,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
@@ -392,6 +395,7 @@
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1127-last-stone-weight](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1127-last-stone-weight) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
 |  |
