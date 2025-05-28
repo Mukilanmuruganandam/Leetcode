@@ -105,6 +105,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
@@ -270,6 +271,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2892-check-if-array-is-good) |
