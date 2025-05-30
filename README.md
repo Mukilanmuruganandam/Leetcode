@@ -123,6 +123,7 @@
 | [3397-find-the-integer-added-to-array-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
 |  |
@@ -195,6 +196,7 @@
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -434,6 +436,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
