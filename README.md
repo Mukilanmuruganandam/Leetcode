@@ -129,6 +129,7 @@
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3625-stone-removal-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -419,6 +421,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -539,4 +542,8 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
