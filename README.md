@@ -161,6 +161,7 @@
 | [1500-count-largest-group](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1642-water-bottles) |
+| [1806-count-of-matches-in-tournament](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -195,6 +196,7 @@
 | [1642-water-bottles](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1642-water-bottles) |
 | [1769-get-maximum-in-generated-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1806-count-of-matches-in-tournament](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
