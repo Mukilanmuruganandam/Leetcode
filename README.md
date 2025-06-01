@@ -214,6 +214,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2785-semi-ordered-permutation](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2785-semi-ordered-permutation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3311-ant-on-the-boundary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -278,6 +279,7 @@
 | [2341-count-prefixes-of-a-given-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2476-check-distances-between-same-letters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -544,6 +546,7 @@
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
 | ------- |
