@@ -115,6 +115,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2698-find-the-array-concatenation-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -204,6 +205,7 @@
 | [2645-pass-the-pillow](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2698-find-the-array-concatenation-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -432,6 +434,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2698-find-the-array-concatenation-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
