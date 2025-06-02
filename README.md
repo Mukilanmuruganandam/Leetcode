@@ -149,6 +149,7 @@
 | [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0412-fizz-buzz](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0796-reaching-points](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0796-reaching-points) |
@@ -192,6 +193,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -267,6 +269,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
