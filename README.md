@@ -219,6 +219,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2857-total-distance-traveled](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2857-total-distance-traveled) |
+| [2886-faulty-keyboard](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3311-ant-on-the-boundary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -285,6 +286,7 @@
 | [2476-check-distances-between-same-letters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2886-faulty-keyboard](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
