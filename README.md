@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -410,6 +411,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -517,6 +519,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Recursion
 |  |
