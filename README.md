@@ -27,6 +27,7 @@
 | [0495-teemo-attacking](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0495-teemo-attacking) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -421,6 +422,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Backtracking
 |  |
