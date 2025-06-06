@@ -52,6 +52,7 @@
 | [1293-three-consecutive-odds](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -346,6 +347,7 @@
 ## Counting
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -393,6 +395,7 @@
 | [0941-sort-array-by-parity](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1137-height-checker) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -439,6 +442,7 @@
 | [0371-sum-of-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0476-number-complement) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
