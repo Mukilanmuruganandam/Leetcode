@@ -69,6 +69,7 @@
 | [1656-count-good-triplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1656-count-good-triplets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1720-crawler-log-folder](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1751-slowest-key](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1751-slowest-key) |
 | [1769-get-maximum-in-generated-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -404,6 +405,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -471,6 +473,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
