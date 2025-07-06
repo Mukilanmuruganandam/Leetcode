@@ -160,6 +160,7 @@
 | [0326-power-of-three](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -543,6 +544,7 @@
 | [0053-maximum-subarray](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0372-super-pow](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0372-super-pow) |
 ## Recursion
 |  |
 | ------- |
