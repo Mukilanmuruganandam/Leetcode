@@ -61,6 +61,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -391,6 +392,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1448-maximum-69-number) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -416,6 +418,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
