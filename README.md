@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0204-count-primes) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -329,6 +330,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1039-find-the-town-judge](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -401,6 +403,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -473,6 +476,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -493,6 +497,7 @@
 | [0202-happy-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0874-backspace-string-compare](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0874-backspace-string-compare) |
