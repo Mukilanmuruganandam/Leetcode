@@ -33,6 +33,7 @@
 | [0792-binary-search](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0890-lemonade-change](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0890-lemonade-change) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0941-sort-array-by-parity](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -168,6 +169,7 @@
 | [0796-reaching-points](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0796-reaching-points) |
 | [0856-consecutive-numbers-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0897-prime-palindrome](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0897-prime-palindrome) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0944-smallest-range-i) |
 | [1115-valid-boomerang](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1115-valid-boomerang) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -259,6 +261,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0928-surface-area-of-3d-shapes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [1115-valid-boomerang](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -589,6 +592,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0463-island-perimeter) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [1041-available-captures-for-rook](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1791-richest-customer-wealth](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
