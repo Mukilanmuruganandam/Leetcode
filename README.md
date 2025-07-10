@@ -50,6 +50,7 @@
 | [1127-last-stone-weight](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1287-distance-between-bus-stops](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -415,6 +416,7 @@
 | [0941-sort-array-by-parity](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1137-height-checker) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
