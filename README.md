@@ -194,6 +194,7 @@
 | [2630-alternating-digit-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2650-split-with-minimum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -406,6 +407,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
