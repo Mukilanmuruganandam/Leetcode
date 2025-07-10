@@ -15,19 +15,22 @@ int maximumUnits(int**a,int n,int*n1,int n3){
             }
         }
     }
-    for(i=0;i<n && n3>0;i++)
-    {
-        int bcnt=a[i][0];
-        int s1=a[i][1];
-        if(n3>=bcnt)
+    if(n3>0)
+    { 
+        for(i=0;i<n;i++)
         {
-            s+=bcnt*s1;
-            n3-=bcnt;
-        }
-        else
-        {
-            s+=n3*s1;
-            break;
+            int bcnt=a[i][0];
+            int s1=a[i][1];
+            if(n3>=bcnt)
+            {
+                s+=bcnt*s1;
+                n3-=bcnt;
+            }
+            else
+            {
+                s+=n3*s1;
+                break;
+            }
         }
     }
     return s;
