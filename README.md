@@ -80,6 +80,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1829-maximum-units-on-a-truck](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1848-sum-of-unique-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -394,6 +395,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1829-maximum-units-on-a-truck](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -424,6 +426,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1829-maximum-units-on-a-truck](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
