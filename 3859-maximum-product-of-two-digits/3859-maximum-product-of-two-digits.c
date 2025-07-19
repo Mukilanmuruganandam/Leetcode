@@ -2,7 +2,7 @@ int maxProduct(int n) {
     int s,r,i,j,c,k;
     int a[50];
     k=0;
-    while(n!='\0')
+    while(n!=0)
     {
         r=n%10;
         a[k]=r;
