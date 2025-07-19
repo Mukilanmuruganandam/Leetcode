@@ -140,6 +140,7 @@
 | [2892-check-if-array-is-good](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3226-minimum-number-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
@@ -248,6 +249,7 @@
 | [2857-total-distance-traveled](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2886-faulty-keyboard](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3226-minimum-number-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -448,6 +450,7 @@
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2892-check-if-array-is-good](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [3226-minimum-number-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -538,6 +541,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3226-minimum-number-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
