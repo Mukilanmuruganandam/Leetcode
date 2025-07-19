@@ -147,6 +147,7 @@
 | [3311-ant-on-the-boundary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3373-maximum-prime-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -417,6 +418,7 @@
 | [2663-distribute-money-to-maximum-children](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
 | ------- |
@@ -459,6 +461,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
 | ------- |
