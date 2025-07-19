@@ -75,6 +75,7 @@
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1720-crawler-log-folder](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1751-slowest-key) |
 | [1769-get-maximum-in-generated-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -355,6 +356,7 @@
 | [1500-count-largest-group](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -447,6 +449,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
