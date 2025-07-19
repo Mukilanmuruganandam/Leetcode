@@ -220,6 +220,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -467,6 +468,7 @@
 | [3334-apple-redistribution-into-boxes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3859-maximum-product-of-two-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
