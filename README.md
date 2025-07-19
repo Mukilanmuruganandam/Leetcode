@@ -142,6 +142,7 @@
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3311-ant-on-the-boundary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
@@ -454,6 +455,7 @@
 | [2892-check-if-array-is-good](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3226-minimum-number-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -610,6 +612,7 @@
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2122-count-special-quadruplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Depth-First Search
 |  |
 | ------- |
