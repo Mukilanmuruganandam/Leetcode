@@ -247,6 +247,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3625-stone-removal-game) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
@@ -682,6 +683,7 @@
 | [2998-count-symmetric-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Depth-First Search
 |  |
 | ------- |
