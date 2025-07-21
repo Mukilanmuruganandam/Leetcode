@@ -213,6 +213,7 @@
 | [2650-split-with-minimum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -440,6 +441,7 @@
 | [2650-split-with-minimum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
