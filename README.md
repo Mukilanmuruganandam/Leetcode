@@ -251,6 +251,7 @@
 | [3626-smallest-divisible-digit-product-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3859-maximum-product-of-two-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
