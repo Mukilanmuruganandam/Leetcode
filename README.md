@@ -223,6 +223,7 @@
 | [2857-total-distance-traveled](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3055-maximum-odd-binary-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3373-maximum-prime-difference) |
@@ -349,6 +350,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3055-maximum-odd-binary-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -447,6 +449,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [3055-maximum-odd-binary-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
