@@ -222,6 +222,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2857-total-distance-traveled](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
+| [2998-count-symmetric-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3373-maximum-prime-difference) |
@@ -658,6 +659,7 @@
 | [2037-count-square-sum-triples](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2122-count-special-quadruplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2998-count-symmetric-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Depth-First Search
 |  |
