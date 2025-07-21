@@ -230,6 +230,7 @@
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3371-harshad-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3462-vowels-game-in-a-string) |
