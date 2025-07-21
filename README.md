@@ -165,6 +165,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3778-transform-array-by-parity](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
