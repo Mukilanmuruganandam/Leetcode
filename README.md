@@ -206,6 +206,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2383-add-two-integers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2619-categorize-box-according-to-criteria](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2645-pass-the-pillow) |
