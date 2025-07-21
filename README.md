@@ -225,6 +225,7 @@
 | [2998-count-symmetric-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3199-distribute-candies-among-children-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3199-distribute-candies-among-children-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
@@ -663,6 +665,7 @@
 | [2122-count-special-quadruplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3199-distribute-candies-among-children-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Depth-First Search
 |  |
