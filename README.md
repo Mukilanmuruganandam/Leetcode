@@ -200,6 +200,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2037-count-square-sum-triples](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2383-add-two-integers) |
@@ -644,6 +645,7 @@
 | [0856-consecutive-numbers-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1656-count-good-triplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1656-count-good-triplets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [2037-count-square-sum-triples](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2122-count-special-quadruplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
