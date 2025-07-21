@@ -238,6 +238,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -363,6 +364,7 @@
 | [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
