@@ -185,6 +185,7 @@
 | [0928-surface-area-of-3d-shapes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0944-smallest-range-i) |
 | [1115-valid-boomerang](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1115-valid-boomerang) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -418,6 +419,7 @@
 | [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
