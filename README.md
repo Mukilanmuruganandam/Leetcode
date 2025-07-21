@@ -133,6 +133,7 @@
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [2722-prime-in-diagonal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2785-semi-ordered-permutation](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2785-semi-ordered-permutation) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
@@ -214,6 +215,7 @@
 | [2663-distribute-money-to-maximum-children](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2722-prime-in-diagonal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -616,6 +618,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0204-count-primes) |
 | [0897-prime-palindrome](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0897-prime-palindrome) |
+| [2722-prime-in-diagonal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3373-maximum-prime-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
@@ -671,6 +674,7 @@
 | [1041-available-captures-for-rook](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1791-richest-customer-wealth](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2722-prime-in-diagonal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Graph
 |  |
 | ------- |
