@@ -137,6 +137,7 @@
 | [2698-find-the-array-concatenation-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2722-prime-in-diagonal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2785-semi-ordered-permutation](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2785-semi-ordered-permutation) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -481,6 +482,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3055-maximum-odd-binary-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
