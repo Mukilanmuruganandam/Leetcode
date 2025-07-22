@@ -133,6 +133,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2722-prime-in-diagonal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2756-buy-two-chocolates](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2756-buy-two-chocolates) |
