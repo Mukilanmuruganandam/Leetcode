@@ -382,6 +382,7 @@
 | [2886-faulty-keyboard](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3055-maximum-odd-binary-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3396-valid-word](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3462-vowels-game-in-a-string) |
