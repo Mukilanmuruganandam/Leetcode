@@ -182,6 +182,7 @@
 | [0189-rotate-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -319,6 +320,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0223-rectangle-area) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [1115-valid-boomerang](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
