@@ -189,6 +189,7 @@
 | [0279-perfect-squares](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0326-power-of-three) |
+| [0343-integer-break](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0372-super-pow) |
@@ -549,6 +550,7 @@
 | [0152-maximum-product-subarray](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
