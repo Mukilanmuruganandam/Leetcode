@@ -187,6 +187,7 @@
 | [0223-rectangle-area](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -692,6 +693,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0319-bulb-switcher) |
 | [3462-vowels-game-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Enumeration
 |  |
