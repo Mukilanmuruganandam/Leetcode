@@ -186,6 +186,7 @@
 | [0204-count-primes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -546,6 +547,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -713,6 +715,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
