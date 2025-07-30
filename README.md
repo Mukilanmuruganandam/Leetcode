@@ -194,6 +194,7 @@
 | [0365-water-and-jug-problem](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0372-super-pow) |
+| [0390-elimination-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -687,6 +688,7 @@
 | [0050-powx-n](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0390-elimination-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Game Theory
 |  |
