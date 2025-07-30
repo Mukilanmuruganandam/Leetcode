@@ -7,6 +7,6 @@ int minMoves(int* a, int n) {
         if(a[i]<m)
             m=a[i];
     }
-    return (int)(s-m*n);
+    return s-m*n;
     
 }
