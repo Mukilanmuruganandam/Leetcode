@@ -205,6 +205,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0672-bulb-switcher-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0796-reaching-points](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0796-reaching-points) |
 | [0856-consecutive-numbers-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0897-prime-palindrome](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0897-prime-palindrome) |
@@ -582,6 +583,7 @@
 | [0397-integer-replacement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0672-bulb-switcher-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -732,12 +734,14 @@
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0463-island-perimeter) |
+| [0672-bulb-switcher-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0672-bulb-switcher-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0463-island-perimeter) |
+| [0672-bulb-switcher-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0672-bulb-switcher-ii) |
 ## Matrix
 |  |
 | ------- |
