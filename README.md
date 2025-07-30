@@ -195,6 +195,7 @@
 | [0371-sum-of-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0390-elimination-game) |
+| [0400-nth-digit](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -592,6 +593,7 @@
 | [0035-search-insert-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0400-nth-digit](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
