@@ -223,6 +223,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1642-water-bottles) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
