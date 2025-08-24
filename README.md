@@ -224,6 +224,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -292,6 +293,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1642-water-bottles) |
 | [1769-get-maximum-in-generated-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1769-get-maximum-in-generated-array) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -593,6 +595,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
