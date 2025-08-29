@@ -249,6 +249,7 @@
 | [2748-calculate-delayed-arrival-time](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2857-total-distance-traveled](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
@@ -445,6 +446,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2892-check-if-array-is-good) |
