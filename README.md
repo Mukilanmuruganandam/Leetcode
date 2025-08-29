@@ -149,6 +149,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3226-minimum-number-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3311-ant-on-the-boundary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -257,6 +258,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -450,6 +452,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -761,6 +764,7 @@
 | [1791-richest-customer-wealth](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2722-prime-in-diagonal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2722-prime-in-diagonal) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
 |  |
 | ------- |
