@@ -32,6 +32,7 @@
 | [0485-max-consecutive-ones](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0495-teemo-attacking) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -674,6 +675,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
