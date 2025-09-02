@@ -176,6 +176,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 | [3859-maximum-product-of-two-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3879-find-minimum-log-transportation-cost) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -463,6 +465,7 @@
 | [3408-count-the-number-of-special-characters-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
 |  |
 | ------- |
@@ -484,6 +487,7 @@
 | [3220-count-tested-devices-after-test-operations](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3778-transform-array-by-parity](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -713,6 +717,7 @@
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
