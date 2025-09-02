@@ -280,6 +280,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -606,6 +607,7 @@
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
 | ------- |
