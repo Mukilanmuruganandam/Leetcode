@@ -42,6 +42,7 @@
 | [0928-surface-area-of-3d-shapes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0941-sort-array-by-parity](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0944-smallest-range-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
@@ -216,6 +217,7 @@
 | [0897-prime-palindrome](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0897-prime-palindrome) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0944-smallest-range-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1115-valid-boomerang](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1115-valid-boomerang) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -433,6 +435,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1039-find-the-town-judge](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1500-count-largest-group) |
@@ -470,6 +473,7 @@
 ## Counting
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -712,6 +716,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0204-count-primes) |
 | [0897-prime-palindrome](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0897-prime-palindrome) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2722-prime-in-diagonal](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3373-maximum-prime-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3373-maximum-prime-difference) |
