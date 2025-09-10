@@ -213,6 +213,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0672-bulb-switcher-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0796-reaching-points](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0796-reaching-points) |
+| [0804-rotated-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0804-rotated-digits) |
 | [0856-consecutive-numbers-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0897-prime-palindrome](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0897-prime-palindrome) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
@@ -593,6 +594,7 @@
 | [0410-split-array-largest-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0804-rotated-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0804-rotated-digits) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Backtracking
 |  |
