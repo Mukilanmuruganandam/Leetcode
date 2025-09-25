@@ -178,6 +178,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Math
 |  |
 | ------- |
@@ -753,6 +754,7 @@
 | ------- |
 | [0319-bulb-switcher](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0319-bulb-switcher) |
 | [3462-vowels-game-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Enumeration
 |  |
 | ------- |
