@@ -299,6 +299,7 @@
 | [3879-find-minimum-log-transportation-cost](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Simulation
 |  |
 | ------- |
@@ -348,6 +349,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Combinatorics
 |  |
 | ------- |
