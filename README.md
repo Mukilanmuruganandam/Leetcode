@@ -214,6 +214,7 @@
 | [0650-2-keys-keyboard](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0672-bulb-switcher-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0728-self-dividing-numbers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0796-reaching-points](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0796-reaching-points) |
 | [0804-rotated-digits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0804-rotated-digits) |
 | [0856-consecutive-numbers-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0856-consecutive-numbers-sum) |
