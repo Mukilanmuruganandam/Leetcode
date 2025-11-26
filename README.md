@@ -295,6 +295,7 @@
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3830-find-closest-person) |
@@ -351,6 +352,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3625-stone-removal-game](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3625-stone-removal-game) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
