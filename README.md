@@ -191,6 +191,7 @@
 | [0050-powx-n](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -313,6 +314,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -395,6 +397,7 @@
 | [0014-longest-common-prefix](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0344-reverse-string) |
@@ -623,6 +626,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0231-power-of-two) |
