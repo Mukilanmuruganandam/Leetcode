@@ -187,6 +187,7 @@
 | [0007-reverse-integer](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0066-plus-one) |
@@ -311,6 +312,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -391,6 +393,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
