@@ -402,6 +402,7 @@
 | [0165-compare-version-numbers](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0389-find-the-difference) |
@@ -456,6 +457,7 @@
 | [0001-two-sum](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -558,6 +560,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0414-third-maximum-number) |
