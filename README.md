@@ -406,6 +406,7 @@
 | [0242-valid-anagram](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -460,6 +461,7 @@
 | [0205-isomorphic-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -501,6 +503,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -845,6 +848,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## String Matching
