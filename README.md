@@ -418,6 +418,7 @@
 | [0657-robot-return-to-origin](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0824-goat-latin](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0824-goat-latin) |
 | [0874-backspace-string-compare](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
