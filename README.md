@@ -39,6 +39,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0806-number-of-lines-to-write-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0890-lemonade-change](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0890-lemonade-change) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0941-sort-array-by-parity](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -416,6 +417,7 @@
 | [0415-add-strings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0806-number-of-lines-to-write-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0874-backspace-string-compare](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
