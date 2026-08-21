@@ -389,6 +389,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1135-customers-who-bought-all-products) |
+| [1211-queries-quality-and-percentage](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1258-article-views-i](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1877-find-followers-count) |
