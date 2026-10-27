@@ -1,5 +1,7 @@
-class Solution {
-    public List<String> stringMatching(String[] words) {
+class Solution 
+{
+    public List<String> stringMatching(String[] words) 
+    {
         List<String> result= new ArrayList<>();
 
         int n=words.length;
@@ -20,3 +22,5 @@ class Solution {
         return result;
     }
 }
+
+
