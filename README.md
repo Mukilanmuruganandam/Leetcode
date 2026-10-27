@@ -64,6 +64,7 @@
 | [1293-three-consecutive-odds](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1408-string-matching-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -425,6 +426,7 @@
 | [0953-reverse-only-letters](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1408-string-matching-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1720-crawler-log-folder](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1751-slowest-key](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1751-slowest-key) |
@@ -866,6 +868,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1408-string-matching-in-an-array](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mukilanmuruganandam/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Segment Tree
 |  |
